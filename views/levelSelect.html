@@ -1,2 +1,25 @@
-<!DOCTYPE html> <html> <head> <!--link(href="app.css" rel="stylesheet") --> <!--<script src="selectStyle.css"></script> -->  <body> <h1> Level Select </h1> <br> <div id="buttonGroup" ng-repeat="level in levels track by $index"> <form action="{{'/#/levels/' + ($index+1)}}"> <input id="lvlButton" type="submit" value="{{$index+1}}"> </form> </div> <!--a layout of 3 squares per line might be nice, but start with
-    horizontal strips--> <br><br> <h2 ng-style="{'float': 'top', 'margin-top': '30px'}"><a href="/"> Back </a></h2> <a href="http:/nrich.maths.org/" id="footer">Visit us!</a>  
+<!DOCTYPE html>
+<html>
+<head>
+  <!--link(href="app.css" rel="stylesheet") -->
+  <!--<script src="selectStyle.css"></script> -->
+</head>
+
+<body>
+<h1> Level Select </h1>
+<br>
+<div id="buttonGroup" ng-repeat="level in levels track by $index">
+  <form  action="{{'/#/levels/' + ($index+1)}}">
+    <input id="lvlButton" type="submit" value={{$index+1}}>
+  </form>
+</div>
+  <!--a layout of 3 squares per line might be nice, but start with
+    horizontal strips-->
+
+<br><br>
+<h2 ng-style="{'float': 'top', 'margin-top': '30px'}"><a href='/'> Back </a></h2>
+
+<a href='http:/nrich.maths.org/' id='footer'>Visit us!</a>
+
+</body>
+</html>
