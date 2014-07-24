@@ -1,0 +1,59 @@
+commit 4aa933d0fbfd893112d5a9c768e3a75a1f7bf90e
+Author: andreifin <finaru_andrei@yahoo.com>
+Date:   Wed Jul 16 14:42:01 2014 +0100
+
+    first addition of swipe event
+
+commit 59d669cf42e4132df222c8a39e252658bdad13fd
+Author: andreifin <finaru_andrei@yahoo.com>
+Date:   Wed Jul 16 12:18:07 2014 +0100
+
+    further attempt with jQueryUI
+
+commit 716ec9b0e75422e885b95129063c79c0512c97f8
+Author: andreifin <finaru_andrei@yahoo.com>
+Date:   Wed Jul 16 10:51:54 2014 +0100
+
+    minor UI fixes; first jQuery attempt
+
+commit 215b216ce900c55752fc8f830a6fc22d8442ec67
+Author: andreifin <finaru_andrei@yahoo.com>
+Date:   Tue Jul 15 13:19:28 2014 +0100
+
+    UI updates
+
+commit 94dcc1de24ef23c2b0377eddce32298836fabbb4
+Author: andreifin <finaru_andrei@yahoo.com>
+Date:   Tue Jul 15 13:11:45 2014 +0100
+
+    UI updates
+
+commit b969d579ca57b50676bb5a72397b06c1e6dd4671
+Author: andreifin <finaru_andrei@yahoo.com>
+Date:   Tue Jul 8 16:57:21 2014 +0100
+
+    added animations
+
+commit bc7c8ab014bba9eb487cbba86589509c3bbeba64
+Author: andreifin <finaru_andrei@yahoo.com>
+Date:   Fri Jul 4 14:16:20 2014 +0100
+
+    added history and undo option; bug fixes
+
+commit 47e0394fb3c53d1296d0e4fbd480f9f3ef369423
+Author: andreifin <finaru_andrei@yahoo.com>
+Date:   Wed Jul 2 17:45:50 2014 +0100
+
+    minor fixes
+
+commit 3ad48c58fcb938207bb45de208645addfa622c72
+Author: andreifin <finaru_andrei@yahoo.com>
+Date:   Wed Jul 2 17:31:55 2014 +0100
+
+    fixes to UI and end conditions
+
+commit a496147b72d6c9d055101c95c00103d04caf880e
+Author: andreifin <finaru_andrei@yahoo.com>
+Date:   Wed Jul 2 13:17:44 2014 +0100
+
+    First commit
