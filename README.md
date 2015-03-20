@@ -1,1 +1,1 @@
-First preview, rough UI but basic functionality in place
+The Divide and Vanish app, developed for nrich.maths.org
